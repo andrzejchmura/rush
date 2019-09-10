@@ -1,3 +1,7 @@
+## Rush
+
+Rush Hour puzzle online game and solver
+
 ###### Status: **In progress**
 
 ### Overview
@@ -15,3 +19,9 @@ The goal of the game is to get only the red car out through the exit of the boar
 ### Puzzle database
 
 The database of puzzles comes from an amazing research project by [Michael Fogleman](https://www.michaelfogleman.com/rush/).
+
+### Development
+
+```console
+npm start
+```
