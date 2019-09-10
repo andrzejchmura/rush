@@ -1,0 +1,33 @@
+.container {
+  position: absolute;
+  background: grey;
+  border: 2px solid black;
+}
+
+.primary {
+  background: red;
+}
+
+.horizontal {
+  height: 100px;
+}
+
+.horizontal.two {
+  width: 200px;
+}
+
+.horizontal.three {
+  width: 300px;
+}
+
+.vertical {
+  width: 100px;
+}
+
+.vertical.two {
+  height: 200px;
+}
+
+.vertical.three {
+  height: 300px;
+}
